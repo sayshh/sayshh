@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seshadri
+- 👋 Hi, I’m @sayshh
 - 👀 I’m interested in configuration management tools
 - 🌱 I’m currently learning Infrastructure as Code
 - 💞️ I’m looking to collaborate on ...
